@@ -56,20 +56,7 @@ Second_mini_project/
 * Organized content sections
 * Beginner‑friendly HTML & CSS implementation
 
----
 
-## 🖼️ Screenshot
-
-Below is a screenshot of the final webpage output:
-
-```
-(Add a screenshot image o![screenshot2](https://github.com/user-attachments/assets/817361e1-fb8d-4fb8-a77d-ae2a46f822a5)
-f your project here)
-```
-
-##
-
----
 
 ## 📤 Repository Link
 
