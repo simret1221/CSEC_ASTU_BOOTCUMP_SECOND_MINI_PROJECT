@@ -1,0 +1,2 @@
+# CSEC_ASTU_BOOTCUMP_SECOND_MINI_PROJECT
+This is the second mini project by CSEC ASTU BOOTCUMP 2025
