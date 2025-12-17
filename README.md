@@ -56,6 +56,9 @@ Second_mini_project/
 * Organized content sections
 * Beginner‑friendly HTML & CSS implementation
 
+##screenshot2
+![Project Screenshot](screenshot2.jpg)
+
 
 
 ## 📤 Repository Link
